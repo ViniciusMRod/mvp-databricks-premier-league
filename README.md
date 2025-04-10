@@ -32,9 +32,16 @@ O projeto utiliza o modelo dimensional do tipo **Esquema Estrela**, com:
 - `dataset/`: referência da fonte de dados usada (Kaggle)
 - `evidencias/`: imagens e capturas de tela das visualizações
 
-## 📌 Fonte dos Dados
+## 📁 Fonte de Dados
 
-[Kaggle – All Premier League Matches 2010–2021](https://www.kaggle.com/datasets/pablohfreitas/all-premier-league-matches-20102021)
+Este projeto utiliza o dataset público do Kaggle:
+
+🔗 https://www.kaggle.com/datasets/pablohfreitas/all-premier-league-matches-20102021
+
+O arquivo utilizado é o: `df_full_premierleague.csv`
+
+Você pode baixá-lo diretamente da página acima e carregá-lo no Databricks.
+
 
 ## 👤 Autor
 
