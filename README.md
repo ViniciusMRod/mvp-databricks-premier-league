@@ -26,6 +26,11 @@ O projeto utiliza o modelo dimensional do tipo **Esquema Estrela**, com:
 - **Tabela fato:** `fato_partida`
 - **Tabelas dimensão:** `dim_time`, `dim_tempo`, `dim_local`, `dim_partida`
 
+## 📓 Notebook
+
+O notebook principal com todo o pipeline de dados está disponível em:  
+🔗 [`notebook/premier_league_mvp.ipynb`](notebook/premier_league_mvp.ipynb)
+
 ## 📁 Organização do repositório
 
 - `notebook/`: notebook completo com o pipeline e análises
