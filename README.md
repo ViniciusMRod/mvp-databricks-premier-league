@@ -29,7 +29,7 @@ O projeto utiliza o modelo dimensional do tipo **Esquema Estrela**, com:
 ## 📓 Notebook
 
 O notebook principal com todo o pipeline de dados está disponível em:  
-🔗 [`notebook/premier_league_mvp.ipynb`](notebook/premier_league_mvp.ipynb)
+🔗 [`notebook/Sprint_III_MVP_Premier_League.ipynb`](notebook/Sprint_III_MVP_Premier_League.ipynb)
 
 ## 📁 Organização do repositório
 
