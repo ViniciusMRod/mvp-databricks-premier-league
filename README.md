@@ -47,6 +47,29 @@ O arquivo utilizado é o: `df_full_premierleague.csv`
 
 Você pode baixá-lo diretamente da página acima e carregá-lo no Databricks.
 
+## 🧪 Autoavaliação
+
+O objetivo principal deste projeto foi construir um pipeline completo de engenharia de dados na nuvem, utilizando a plataforma **Databricks**, com foco na análise de dados de partidas da Premier League. A proposta incluía prever resultados com base em estatísticas históricas, além de realizar análises que pudessem gerar insights sobre desempenho de mandantes e visitantes.
+
+### ✅ Conquistas
+- Todas as etapas do pipeline foram concluídas com sucesso: **coleta, transformação, modelagem dimensional, carga e análise**.
+- As **tabelas fato e dimensões** foram criadas seguindo o modelo estrela, com consistência e clareza na estrutura.
+- Foram elaboradas **análises em SQL e Python** que responderam às perguntas de negócio levantadas inicialmente.
+- O projeto foi documentado e publicado no **GitHub**, com organização de pastas, visualizações e `README.md` completo.
+
+### ⚠️ Dificuldades encontradas
+- Inicialmente, houve desafios técnicos na manipulação de joins entre as dimensões e a tabela fato, especialmente relacionados a renomeações de colunas e conflitos de schema.
+- Alguns erros no Databricks exigiram atenção especial à tipagem, persistência de tabelas em Delta/Parquet, e à diferenciação entre tabelas temporárias e permanentes.
+- A etapa de visualização exigiu atenção extra para se alinhar com os objetivos do negócio e comunicar os resultados de forma clara.
+
+### 💡 Trabalhos futuros
+- Expandir o projeto com **modelos preditivos de classificação** (ex: logistic regression, random forest) para prever resultados com maior precisão.
+- Construir um **dashboard interativo** com ferramentas como **Power BI**, **Tableau** ou **Streamlit**, consumindo as tabelas já modeladas.
+- Adicionar uma **camada de orquestração** (ex: Airflow ou Databricks Jobs) para simular um pipeline de produção.
+- Incluir **mais temporadas** ou outros campeonatos para ampliar a base e enriquecer os resultados.
+
+### 🎯 Conclusão
+O projeto atendeu aos objetivos definidos no início do trabalho, entregando uma solução funcional, bem documentada e com potencial de evolução. Além do aprendizado técnico com Spark e Databricks, o projeto fortaleceu habilidades de organização, troubleshooting e comunicação de dados.
 
 ## 👤 Autor
 
@@ -54,4 +77,4 @@ Você pode baixá-lo diretamente da página acima e carregá-lo no Databricks.
 - vinicius.matos.r@gmail.com
 - www.linkedin.com/in/viniciusmrodrigues
 
-
+---
