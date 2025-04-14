@@ -32,7 +32,7 @@ O notebook principal com todo o pipeline de dados está disponível em:
 🔗 [`notebook/Sprint_III_MVP_Premier_League.ipynb`](notebook/Sprint_III_MVP_Premier_League.ipynb)
 
 Link do notebook no Databricks:
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/728999002468525/949338440782492/6310617643042785/latest.html
+[https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/728999002468525/949338440782492/6310617643042785/latest.html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/728999002468525/949338440782492/6310617643042785/latest.html)
 
 ## 📁 Organização do repositório
 
